@@ -8,7 +8,7 @@ order: 2
 ## Joshua Roe
 
 ---
-I am a hard-working and motivated Robotics Systems Engineer Student furthering my career in robotics. I have a versatile skillset including production of mechanical and electrical systems. I have experience in programming and debugging for ROS-based systems with a focus on mobile robotics and manipulation.
+I am a hard-working and motivated Robotics Systems Engineer furthering my career in robotics. I have a versatile skillset including production of mechanical and electrical systems. I have experience in programming and debugging for ROS-based systems with a focus on mobile robotics and manipulation.
 
 ---
 ### Education
