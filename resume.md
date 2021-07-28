@@ -8,16 +8,18 @@ order: 2
 ## Joshua Roe
 
 ---
-I am a hard-working and motivated final-year undergraduate Robotics Student seeking a career in robotics. I have a versatile skillset including production of mechanical and electrical systems. I have experience in programming and debugging for ROS-based systems with a focus on mobile robotics and manipulation.
+I am a hard-working and motivated Robotics Systems Engineer Student furthering my career in robotics. I have a versatile skillset including production of mechanical and electrical systems. I have experience in programming and debugging for ROS-based systems with a focus on mobile robotics and manipulation.
 
 ---
 ### Education
 #### Heriot-Watt University
-2015-present | MEng Robotics Autonomous and Interactive Systems (Predicted 2:1)
-- 5th year masters student, currently studying embedded software and interaction design.
+2015-2020 | MEng Robotics Autonomous and Interactive Systems (Graduated With Distinction)
 
 ---
 ### Experience
+Research Engineer, Systems Engineer (Marine Robotics) May 2020 - Present<br>
+ORCA HUB (Heriot-Watt University)
+
 Research Assistant, Software Developer (Robotics) 6mth Placement June – December 2019<br>
 ORCA HUB (Heriot-Watt University)
 
