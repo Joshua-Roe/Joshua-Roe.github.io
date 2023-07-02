@@ -8,7 +8,7 @@ order: 2
 ## Joshua Roe
 
 ---
-I am a hard-working and motivated Robotics Systems Engineer furthering my career in robotics. I have a versatile skillset including production of mechanical and electrical systems. I have experience in programming and debugging for ROS-based systems with a focus on mobile robotics and manipulation.
+I'm a Robotics Engineer/Developer and Senior Engineer for The National Robotarium in Edinburgh, with a key interest in Marine and field robotics. In my spare time I develop low cost DIY smart home infrastructure and retrofit existing hardware with IOT support.
 
 ---
 ### Education
@@ -17,7 +17,10 @@ I am a hard-working and motivated Robotics Systems Engineer furthering my career
 
 ---
 ### Experience
-Research Engineer, Systems Engineer (Marine Robotics) May 2020 - Present<br>
+Senior Engineer (Robotics) August 2022 - Present<br>
+The National Robotarium
+
+Research Engineer, Systems Engineer (Marine Robotics) May 2020 - August 2022<br>
 ORCA HUB (Heriot-Watt University)
 
 Research Assistant, Software Developer (Robotics) 6mth Placement June – December 2019<br>
@@ -31,15 +34,18 @@ Children’s Hospice Association Scotland
 
 ---
 ### Skills and Achievements
+- Marine Robotics (Hardware development, Marinization, Servicing)
 - Software Development (Linux, C, Python, C++, ROS, PDDL)
-- Computer Vision(OpenCV, Feature Detection, Aruco Markers)
-- ROS(Navigation, Manipulation, Hardware Integration)
+- Computer Vision (OpenCV, Feature Detection, Aruco Markers)
+- ROS (Navigation, Manipulation, Hardware integration, Driver development)
 - Digital Electronics (Circuit design, Soldering, PIC)
 - Digital Design and Manufacturing (CAD-CAM, 3D Printing)
 - Awards: Duke of Edinburgh Gold award, Boys Brigade Queens Badge, Saltire Award (300 hours volunteering)
+- Certifications: Electric overhead travelling crane (Operation), Powerboat level 2, Marine radio VHF/SRC
 
 ---
 ### Personal Interests
 - 3d Printing and personal manufacturing
 - DIY Smart Home Hardware and integrating such with consumer products
+- HomeLab
 - Digital Electronics and PIC projects
